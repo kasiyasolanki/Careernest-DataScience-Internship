@@ -19,6 +19,23 @@ Supermarket Sales EDA, Modeling &amp; Analysis – Careernest Internship
 ## GitHub Repo Structure
 notebooks/
 data/
-images/
-reports/
 README.md
+
+
+---
+
+## 🧠 Task 2: Customer Type Prediction using Classification
+
+### 📌 Objective:
+To predict whether a customer is a **Member** or **Normal Customer** using classification models like Logistic Regression and Random Forest.
+
+### ⚙️ Process:
+- Preprocessed data from the Supermarket Sales dataset.
+- Applied **Label Encoding** to convert categorical variables.
+- Trained models: Logistic Regression and Random Forest.
+- Evaluated model performance using **accuracy score, confusion matrix, and classification report**.
+
+### 📊 Results:
+- The regression model was giving unrealistically perfect accuracy (overfitting due to data leakage).
+- Hence, the problem was reframed as a **classification task**, which fits the dataset better.
+
