@@ -39,3 +39,31 @@ To predict whether a customer is a **Member** or **Normal Customer** using class
 - The regression model was giving unrealistically perfect accuracy (overfitting due to data leakage).
 - Hence, the problem was reframed as a **classification task**, which fits the dataset better.
 
+
+
+## 🧠 Advanced Task: Full Data Analysis Project - Online Retail Dataset
+
+**Goal:** Conduct a complete data analysis from cleaning to insights generation using Python.  
+
+### 📋 Steps Involved:
+- Data Cleaning and Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- RFM (Recency, Frequency, Monetary) Analysis  
+- K-Means Customer Segmentation  
+- Business Insights & Recommendations  
+
+### 🧩 Tools Used:
+`Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Scikit-learn`
+
+### 📊 Key Insights:
+- Cluster 0: **VIP Customers** with high frequency and spending  
+- Cluster 1: **Regular Active Buyers** with consistent purchases  
+- Cluster 2: **Dormant Customers** needing re-engagement campaigns  
+- Cluster 3: **New or One-Time Shoppers**
+
+
+
+
+
+
+
