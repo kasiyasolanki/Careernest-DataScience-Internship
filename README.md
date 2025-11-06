@@ -22,7 +22,7 @@ data/
 README.md
 
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🧠 Task 2: Customer Type Prediction using Classification
 
@@ -39,9 +39,9 @@ To predict whether a customer is a **Member** or **Normal Customer** using class
 - The regression model was giving unrealistically perfect accuracy (overfitting due to data leakage).
 - Hence, the problem was reframed as a **classification task**, which fits the dataset better.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-## 🧠 Advanced Task: Full Data Analysis Project - Online Retail Dataset
+## 🧠 Advanced Task 3: Full Data Analysis Project - Online Retail Dataset
 
 **Goal:** Conduct a complete data analysis from cleaning to insights generation using Python.  
 
